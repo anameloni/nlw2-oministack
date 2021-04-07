@@ -1,11 +1,10 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="logo.svg" />
 </h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="https://github.com/rocketseat-education/nlw-02-omnistack/blob/f0e7e792b6d5903fe3a61e31cd7d53674260e39d/.github/proffy.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,3 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online. Esse projeto foi desenvolvido como caso de uso do curso de React da Rocketseat duranto o NLW#2
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
