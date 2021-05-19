@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NLW2-Oministack/static/css/main.336c1ad2.chunk.css",
+    "main.js": "/NLW2-Oministack/static/js/main.375c5c6e.chunk.js",
+    "main.js.map": "/NLW2-Oministack/static/js/main.375c5c6e.chunk.js.map",
+    "runtime-main.js": "/NLW2-Oministack/static/js/runtime-main.8821c9d2.js",
+    "runtime-main.js.map": "/NLW2-Oministack/static/js/runtime-main.8821c9d2.js.map",
+    "static/js/2.21f9ab4e.chunk.js": "/NLW2-Oministack/static/js/2.21f9ab4e.chunk.js",
+    "static/js/2.21f9ab4e.chunk.js.map": "/NLW2-Oministack/static/js/2.21f9ab4e.chunk.js.map",
+    "index.html": "/NLW2-Oministack/index.html",
+    "precache-manifest.c3051dc8f3d735f74d1e8086020afb49.js": "/NLW2-Oministack/precache-manifest.c3051dc8f3d735f74d1e8086020afb49.js",
+    "service-worker.js": "/NLW2-Oministack/service-worker.js",
+    "static/css/main.336c1ad2.chunk.css.map": "/NLW2-Oministack/static/css/main.336c1ad2.chunk.css.map",
+    "static/js/2.21f9ab4e.chunk.js.LICENSE.txt": "/NLW2-Oministack/static/js/2.21f9ab4e.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/NLW2-Oministack/static/media/back.1fbb1f8b.svg",
+    "static/media/give-classes.svg": "/NLW2-Oministack/static/media/give-classes.9ed76be5.svg",
+    "static/media/landing.svg": "/NLW2-Oministack/static/media/landing.c86272eb.svg",
+    "static/media/logo.svg": "/NLW2-Oministack/static/media/logo.1f9a96a1.svg",
+    "static/media/purple-heart.svg": "/NLW2-Oministack/static/media/purple-heart.e042bb23.svg",
+    "static/media/study.svg": "/NLW2-Oministack/static/media/study.3c22fb01.svg",
+    "static/media/warning.svg": "/NLW2-Oministack/static/media/warning.744fb7ba.svg",
+    "static/media/whatsapp.svg": "/NLW2-Oministack/static/media/whatsapp.c2ffa8a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8821c9d2.js",
+    "static/js/2.21f9ab4e.chunk.js",
+    "static/css/main.336c1ad2.chunk.css",
+    "static/js/main.375c5c6e.chunk.js"
+  ]
+}
